@@ -823,6 +823,13 @@ header .menu-btn span:after {
     background-position: center;
 }
 
+.laravel {
+    background-image: url(../images/skills/laravel.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .react {
     background-image: url(../images/skills/react.png);
     background-size: contain;
@@ -830,8 +837,22 @@ header .menu-btn span:after {
     background-position: center;
 }
 
+.webpack {
+    background-image: url(../images/skills/webpack.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .linux {
     background-image: url(../images/skills/linux.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.azure {
+    background-image: url(../images/skills/azure.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -891,6 +912,16 @@ header .menu-btn span:after {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 80%;
+}
+
+.chess {
+	background-color: #fefefe;
+    width: 34px;
+    height: 34px;
+    -webkit-mask-box-image: url(../images/chess.svg);
+    display: block;
+	position: relative;
+	margin: 14px auto;
 }
 
 
